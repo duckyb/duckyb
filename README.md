@@ -1,16 +1,18 @@
-### Hi there 👋
+### Now I'm cool too 😎
 
-<!--
-**duckyb/duckyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![mydubstats](https://user-images.githubusercontent.com/27895007/166702676-5ca7d316-15d8-4d75-99ca-6e9f81baa2ac.png)
 
-Here are some ideas to get you started:
+I'm duckyb, also known as **Kyek**. I use GitHub for work, open source software and hardware contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+Do you need to ask me something?
+
+[![](https://shields.io/static/v1?logo=github&logoColor=white&labelColor=2d333b&style=flat-square&message=Discussion&color=161b22&label=GitHub)](https://github.com/duckyb/duckyb/discussions/1)
+[![](https://shields.io/static/v1?logo=reddit&logoColor=white&labelColor=2d333b&style=flat-square&message=Kyek&color=orange&label=Reddit)](https://www.reddit.com/message/compose/?to=Kyek)
+[![](https://shields.io/static/v1?logo=telegram&logoColor=white&labelColor=2d333b&style=flat-square&message=Kyek&color=30a5dd&label=Telegram)](https://t.me/kyyyek)
+[![](https://shields.io/static/v1?logo=discord&logoColor=white&labelColor=2d333b&style=flat-square&message=Kyek%233541&color=5865ed&label=Discord)](#)
+
+#### Projects
+
+👇 Below are a few projects that I've been working / contributing to lately.
