@@ -4,10 +4,6 @@
 
 I'm duckyb, also known as **Kyek**. I use GitHub for work, open source software and hardware contributions.
 
-#### Showcase
-
-<img src="https://user-images.githubusercontent.com/27895007/166708543-68d4cc4a-921d-4123-a9f6-c098355815ff.png" width=650/>
-
 #### Contacts
 
 Do you need to ask me something?
