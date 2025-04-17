@@ -1,7 +1,3 @@
-### Now I'm cool too 😎
-
-![mydubstats](https://user-images.githubusercontent.com/27895007/166702676-5ca7d316-15d8-4d75-99ca-6e9f81baa2ac.png)
-
 I'm duckyb, also known as **Kyek**. I use GitHub for work, open source software and hardware contributions.
 
 #### Contacts
